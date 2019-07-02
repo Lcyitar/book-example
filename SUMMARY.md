@@ -13,4 +13,6 @@
 * [IDE  OR Editor](ide-or-editor.md)
   * [Sublime Text](ide-or-editor/sublime-text.md)
   * [PHPStorm](ide-or-editor/phpstorm.md)
+* [小测验](xiao-ce-yan.md)
+  * [九九乘法表](xiao-ce-yan/jiu-jiu-cheng-fa-biao.md)
 
