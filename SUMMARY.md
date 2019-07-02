@@ -5,8 +5,8 @@
   * [HTML + CSS 基础教程](chapter1/section1.1.md)
   * [PHP 入门篇](chapter1/section1.2.md)
   * [PHP 进阶篇](chapter1/php-jin-jie-pian.md)
-* [Chapter2](chapter2/README.md)
-  * [Section1.1](chapter2/section1.2.md)
+* [版本控制](chapter2/README.md)
+  * [Git](chapter2/section1.2.md)
 * [开发规范](chapter3.md)
   * 编码规范
     * [代码风格](chapter3/dai-ma-feng-ge.md)
