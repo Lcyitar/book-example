@@ -4,6 +4,7 @@
 * [PHP 基础教程](chapter1/README.md)
   * [HTML + CSS 基础教程](chapter1/section1.1.md)
   * [PHP 入门篇](chapter1/section1.2.md)
+  * [PHP 进阶篇](chapter1/php-jin-jie-pian.md)
 * [Chapter2](chapter2/README.md)
   * [Section1.1](chapter2/section1.2.md)
 * [Chapter3](chapter3.md)
