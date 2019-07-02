@@ -1,6 +1,4 @@
-# README
+# 嘉瑞科技实习生 PHP 入门指南
 
-This is a book powerd by [Gitbook](https://github.com/GitbookIO/gitbook)
 
-本文章同步至 github
 
