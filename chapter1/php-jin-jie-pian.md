@@ -12,6 +12,7 @@
 4. 学习完 \[第二章 类与面向对象\] 后你可能会大脑比较混乱，请静下心，多写，多练
 5. 接下来学习 [PHP 命名空间](https://www.runoob.com/php/php-namespace.html) 此为教程中遗漏的知识点
 6. 学习完 \[第七章 数据库操作\] 后补全知识 [PHP PDO](https://www.runoob.com/php/php-pdo.html)
+7. 学习 [PHP 表单](https://www.runoob.com/php/php-forms.html) 中的整章知识
 
 
 
