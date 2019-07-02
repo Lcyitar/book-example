@@ -14,6 +14,8 @@
 * [开发规范](chapter3.md)
   * [编码规范](chapter3/bian-ma-gui-fan.md)
     * [代码风格](chapter3/dai-ma-feng-ge.md)
+* [PHP 框架](php-kuang-jia.md)
+  * [ThinkPHP 5](php-kuang-jia/thinkphp-5.md)
 * [IDE  OR Editor](ide-or-editor.md)
   * [Sublime Text](ide-or-editor/sublime-text.md)
   * [PHPStorm](ide-or-editor/phpstorm.md)
