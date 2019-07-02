@@ -7,8 +7,9 @@
   * [PHP 进阶篇](chapter1/php-jin-jie-pian.md)
 * [Chapter2](chapter2/README.md)
   * [Section1.1](chapter2/section1.2.md)
-* [Chapter3](chapter3.md)
-  * [Section3.1](chapter3/section31.md)
+* [开发规范](chapter3.md)
+  * 编码规范
+    * [代码风格](chapter3/dai-ma-feng-ge.md)
 * [集成环境](ji-cheng-huan-jing.md)
   * [Windows Laragon](ji-cheng-huan-jing/windows-laragon.md)
 * [IDE  OR Editor](ide-or-editor.md)
