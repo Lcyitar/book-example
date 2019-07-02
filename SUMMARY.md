@@ -8,4 +8,9 @@
   * [Section1.1](chapter2/section1.2.md)
 * [Chapter3](chapter3.md)
   * [Section3.1](chapter3/section31.md)
+* [集成环境](ji-cheng-huan-jing.md)
+  * [Windows Laragon](ji-cheng-huan-jing/windows-laragon.md)
+* [IDE  OR Editor](ide-or-editor.md)
+  * [Sublime Text](ide-or-editor/sublime-text.md)
+  * [PHPStorm](ide-or-editor/phpstorm.md)
 
