@@ -7,6 +7,8 @@
   * [PHP 进阶篇](chapter1/php-jin-jie-pian.md)
 * [版本控制](chapter2/README.md)
   * [Git](chapter2/section1.2.md)
+* [PHP 依赖管理](php-yi-lai-guan-li.md)
+  * [Composer](php-yi-lai-guan-li/composer.md)
 * [集成环境](ji-cheng-huan-jing.md)
   * [Windows Laragon](ji-cheng-huan-jing/windows-laragon.md)
 * [开发规范](chapter3.md)
