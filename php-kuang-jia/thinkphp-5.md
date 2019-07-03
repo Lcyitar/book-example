@@ -8,5 +8,11 @@ Thinking PHP
 
 1. [ThinkPHP5.1完全开发手册](https://www.kancloud.cn/manual/thinkphp5_1/)
 
+### 学习要求
+
+1. 待完善
+
+
+
 
 
