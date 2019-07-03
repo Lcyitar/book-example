@@ -1,4 +1,4 @@
-## Git  --fast-version-control
+## Git  -- fast-version-control
 
 ![](/assets/git-srm.com.png)
 
