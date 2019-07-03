@@ -13,7 +13,7 @@
 5. 接下来学习 [PHP 命名空间](https://www.runoob.com/php/php-namespace.html) ，此为教程中遗漏的知识点
 6. 学习完 \[第七章 数据库操作\] 后补全知识 [PHP PDO](https://www.runoob.com/php/php-pdo.html)
 7. 学习 [PHP 表单](https://www.runoob.com/php/php-forms.html) 中的整章知识
-8. 完成小测验  [PHP 留言板](/xiao-ce-yan/jiu-jiu-cheng-fa-biao.md)
+8. 完成小测验 [PHP 留言板](/xiao-ce-yan/php-liu-yan-ban.md)
 
 
 
