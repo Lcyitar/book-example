@@ -1,4 +1,4 @@
-## TortoiseSVN - the coolest interface to \(Sub\)version control
+## TortoiseSVN -- the coolest interface to \(Sub\)version control
 
 
 
