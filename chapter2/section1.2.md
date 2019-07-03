@@ -10,5 +10,11 @@ Git 是一个免费的开源分布式版本控制系统，旨在快速高效地�
 2. [Git - Book](https://git-scm.com/)
 3. [Git 训练场](https://learngitbranching.js.org/)
 
+### 学习要求
+
+1. 用户自己的代码仓库账号\([码云](https://gitee.com/) 或 [Github](https://github.com/)\)，能拉取/推送代码到代码仓库
+2. 能熟练运用常用命令，了解不常用命令
+3. 能清楚的知道冲突是如何产生的，并且如何处理冲突
+
 
 
